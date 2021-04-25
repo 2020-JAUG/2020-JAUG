@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi 👋 I'm Alex 👨🏽‍💻
+
+   ```javascript
+const 2020-JAUG = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React Developer Tools, Redux DevTools],
+ challenge: "I am currently training as a full stack developer."
+}
+```
+
+You can find me 🌍:
+- [Twitter](https://twitter.com/AUrbina09807986)
+- [Linkedin](https://www.linkedin.com/in/alejandro-urbina-gonzalez-686263169/)
 
 <!--
 **2020-JAUG/2020-JAUG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
