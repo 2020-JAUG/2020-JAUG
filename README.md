@@ -13,7 +13,7 @@ const 2020-JAUG = {
 - [Twitter](https://twitter.com/AUrbina09807986)
 - [Linkedin](https://www.linkedin.com/in/alejandro-urbina-gonzalez-686263169/)
 
-[![2020-JAUG stats](https://github-readme-stats.vercel.app/api?username=2020-JAUG)](https://github-readme-stats.vercel.app/api?username=2020-JAUG)
+![2020-JAUG GitHub stats](https://github-readme-stats.vercel.app/api?username=2020-JAUG&theme=gruvbox&show_icons=true)
  
 ![GitHub Logo](https://github.com/2020-JAUG/website-grid/blob/master/img/faviconYellow.png?raw=true)
 
