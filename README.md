@@ -9,9 +9,11 @@ const 2020-JAUG = {
 }
 ```
 
-You can find me 🌍:
+## You can find me 🌍:
 - [Twitter](https://twitter.com/AUrbina09807986)
 - [Linkedin](https://www.linkedin.com/in/alejandro-urbina-gonzalez-686263169/)
+ 
+![GitHub Logo](https://github.com/2020-JAUG/website-grid/blob/master/img/faviconYellow.png?raw=true)
 
 <!--
 **2020-JAUG/2020-JAUG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
