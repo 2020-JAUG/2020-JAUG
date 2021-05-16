@@ -19,8 +19,11 @@ const 2020-JAUG = {
    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" target="_blank" alt="nodejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
    <img 
 
+
 <!--![2020-JAUG GitHub stats](https://github-readme-stats.vercel.app/api?username=2020-JAUG&theme=gruvbox&show_icons=true) --> 
-![GitHub Logo](https://github.com/2020-JAUG/website-grid/blob/master/img/faviconYellow.png?raw=true)
+---
+
+![GitHub Logo](https://github.com/2020-JAUG/Website-MAP/blob/main/img/faviconYellow.png)
 
 <!--
 **2020-JAUG/2020-JAUG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
