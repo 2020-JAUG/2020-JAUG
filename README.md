@@ -2,7 +2,6 @@
 
    ```javascript
 const 2020-JAUG = {
-  pronouns: "he" | "him",
   code: [Javascript, Typescript, Python, HTML, CSS, NodeJS, Express, TypeORM, PHP, Laravel],
   tools: [React Developer Tools, Redux DevTools],
  challenge: "I am currently training as a full stack developer."
