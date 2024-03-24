@@ -10,7 +10,6 @@ const 2020-JAUG = {
 
 ## You can find me 🌍
 - [AlejoDev](https://www.alejodev.tech)
-- [Twitter](https://twitter.com/AUrbina09807986)
 - [Linkedin](https://www.linkedin.com/in/alejandro-urbina-gonzalez-686263169/)
 - [X](https://x.com/AUrbina09807986)
 
