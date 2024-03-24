@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alex 👨🏽‍💻</h1>
+<h1 align="center">Hi, I'm Alejo 👨🏽‍💻</h1>
 
    ```javascript
 const 2020-JAUG = {
