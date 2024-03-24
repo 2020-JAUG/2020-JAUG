@@ -11,6 +11,7 @@ const 2020-JAUG = {
 ## You can find me 🌍
 - [Twitter](https://twitter.com/AUrbina09807986)
 - [Linkedin](https://www.linkedin.com/in/alejandro-urbina-gonzalez-686263169/)
+- [AlejoDev](https://www.alejodev.tech)
 
 <h3 align="left">Languages and Tools:</h3>
 <p <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a> 
