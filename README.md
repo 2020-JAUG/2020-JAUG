@@ -2,16 +2,16 @@
 
    ```javascript
 const 2020-JAUG = {
-  code: [SQL, Javascript, Typescript, Python, HTML, CSS, NodeJS, Express, TypeORM, PHP, Laravel],
-  tools: [React Developer Tools, Redux DevTools],
+  code: [PHP, Laravel, Livewire, SQL, Tailwind, Javascript, Typescript, Python, HTML, CSS, NodeJS, Express, TypeORM],
+  tools: [Mailhog, dbdiagram, DataGrip, PhpStorm, laravel-debugbar, React Developer Tools, Redux DevTools],
  challenge: "I am currently training as a full stack developer."
 }
 ```
 
 ## You can find me 🌍
-- <a href="https://www.alejodevhub.es" target="_blank" rel="noopener noreferrer">AlejoDevHub</a>
-- <a href="https://www.linkedin.com/in/alejandro-urbina-gonzalez-686263169/" target="_blank" rel="noopener noreferrer">Linkedin</a>
-- <a href="https://x.com/AUrbina09807986" target="_blank" rel="noopener noreferrer">X</a>
+- [AlejoDevHub](https://www.alejodevhub.es)
+- [Linkedin](https://www.linkedin.com/in/alejandro-urbina-gonzalez-686263169/)
+- [X](https://x.com/AUrbina09807986)
 
 <h3 align="left">Languages and Tools:</h3>
 <p <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a> 
